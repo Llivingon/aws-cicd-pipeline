@@ -1,0 +1,2 @@
+dockerhub_credentials = "arn:aws:secretsmanager:ca-central-1:647461475261:secret:codebuild/cicd-pipeline-lyBMIy"
+codestar_connector_credentials = "arn:aws:codestar-connections:ca-central-1:647461475261:connection/54300a61-2400-45dd-ac63-4402ddac5659"
